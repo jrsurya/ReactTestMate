@@ -1,0 +1,20 @@
+{
+  "name": "reacttestmate",
+  "version": "1.0.0",
+  "description": "Setup unit testing for React.js projects",
+  "main": "index.js",
+  "scripts": {
+    "setup-tests": "node index.js"
+  },
+  "keywords": [
+    "react",
+    "unit testing",
+    "npm package"
+  ],
+  "author": "SPS",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "enzyme": "^3.11.0"
+  }
+}
