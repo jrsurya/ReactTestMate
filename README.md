@@ -7,7 +7,7 @@ React Unit Test Setup is an npm package designed to simplify the process of sett
 To install React Unit Test Setup, run the following command in your terminal:
 
 ```bash
-npm install react-unit-test-setup --save-dev
+npm install reacttestmate-2.0 --save-dev
 npm run setup-tests
 ```
 
