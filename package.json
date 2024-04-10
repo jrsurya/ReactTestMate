@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "setup-tests": "node index.js"
-  },
+  },,
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:jrsurya/ReactTestMate.git"
+    },    
   "keywords": [
     "react",
     "unit testing",
