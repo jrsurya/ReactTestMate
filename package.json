@@ -1,10 +1,14 @@
 {
   "name": "reacttestmate-2.0",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Setup unit testing for React.js projects",
   "main": "index.js",
   "scripts": {
     "setup-tests": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrsurya/ReactTestMate.git"
   },
   "keywords": [
     "react",
